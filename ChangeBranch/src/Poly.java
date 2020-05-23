@@ -5,6 +5,7 @@ public class Poly {
 		System.out.println("hi");
 		System.out.println("hello");
 		System.out.println("k");
+		System.out.println("hello");
 
 	}
 
